@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Web-Related-Examples-master:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Web_Related_Examples_master_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web8" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web6" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web12" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web4" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web3" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web16" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web14" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web9" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web10" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web23" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web17" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web7" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web11" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web19" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web25" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web13" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web15" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web18" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web24" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web5" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web20" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web21" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web22" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web26" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web27" />
+      <element id="javaee-facet-resources" facet="Web-Related-Examples-master/web/Web2" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-jparepository:war">
+    <output-path>$PROJECT_DIR$/Web-Related-Examples-master/Spring-JpaRepository/target</output-path>
+    <root id="archive" name="spring-jparepository-1.0.0.war">
+      <element id="artifact" artifact-name="spring-jparepository:war exploded" />
+    </root>
+  </artifact>
+</component>
